@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "user": "leonyannik",
+    "password": "yan-nik1",
+    "database": "vapor",
+    "port": "3306",
+    "encoding": "utf8"
+}
